@@ -34,7 +34,7 @@ I'm Zahaa Muhanna, a Computer Science Apprenticeship student specializing in Sof
 
 
 ## 📫 How to Reach Me
-- Email: ahmadzaha33@gmail.com
+- Email: zahaamuhanna@gmail.com
 - LinkedIn: [Zahaa Muhanna](https://www.linkedin.com/in/zahaa-muhnna/)
 
 ---
