@@ -39,6 +39,5 @@ I'm Zahaa Muhanna, a Computer Science Apprenticeship student specializing in Sof
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=zahaaMuhanna&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
