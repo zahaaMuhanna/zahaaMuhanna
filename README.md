@@ -25,10 +25,16 @@ I'm Zahaa Muhanna, a Computer Science Apprenticeship student specializing in Sof
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+--- 
 ## 📊 GitHub Stats:
 <div align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zahaaMuhanna&theme=github" alt="Profile Details" width="100%" /> </div> <div align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zahaaMuhanna&theme=github" alt="Top Languages" width="32%" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zahaaMuhanna&theme=github" alt="Most Commit Language" width="32%" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zahaaMuhanna&theme=github" alt="Stats" width="32%" /> </div> <div align="center">  </div>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=zahaaMuhanna&theme=dark&hide_border=false)<br/>
 
+---
+[![](https://visitcount.itsvg.in/api?id=zahaaMuhanna&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zahaaMuhanna&theme=kacho_ga&no-frame=false&no-bg=false&margin-w=4)
 
