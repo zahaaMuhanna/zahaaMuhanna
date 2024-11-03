@@ -25,6 +25,8 @@ I'm Zahaa Muhanna, a Computer Science Apprenticeship student specializing in Sof
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zahaaMuhanna&theme=github)
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zahaaMuhanna&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zahaaMuhanna&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
